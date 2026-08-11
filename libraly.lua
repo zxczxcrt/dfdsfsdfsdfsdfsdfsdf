@@ -58,7 +58,7 @@ local themes = {
 local themeStyles = {
     RJTheme1 = {
     -- Цвет фона у Секций
-    SchemeColor = Color3.fromRGB(0, 255, 0),
+    SchemeColor = Color3.fromRGB(0, 100, 0),
 	-- Цвет фона в правой части UI
 	Background = Color3.fromRGB(15,15,15),
 	-- Цвет фона в левой части UI
